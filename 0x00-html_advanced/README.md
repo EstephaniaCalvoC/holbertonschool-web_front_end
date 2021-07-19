@@ -33,14 +33,18 @@ Create the head and body sections
 * [8. Level 1 headings](./8-index.html)
 * [9. Level 2 headings](./9-index.html)
 * [10. Level 3 headings](./10-index.html)
-* [11. styleguide](11-styleguide.html)
+* [11. styleguide](./11-styleguide.html)
 * [12. Paragraphs](./12-index.html)
-* [13. styleguide paragraphs](13-styleguide.html)
-* [14. Span](14-index.html)
-* [15. Div](15-index.html)
-* [16. Structure your sections](16-index.html)
-* [17. Comments](17-index.html)
-* [18. link your logo](18-index.html)
+* [13. styleguide paragraphs](./13-styleguide.html)
+* [14. Span](./14-index.html)
+* [15. Div](./15-index.html)
+* [16. Structure your sections](./16-index.html)
+* [17. Comments](./17-index.html)
+* [18. link your logo](./18-index.html)
+* 19. Create new pages
+       * [About](./about.html)
+       * [Latest news](./latest_news.html)
+       * [Contact](./contact.html)
 
 ---
 
