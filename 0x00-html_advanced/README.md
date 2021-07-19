@@ -35,6 +35,7 @@ Create the head and body sections
 * [10. Level 3 headings](./10-index.html)
 * [11. styleguide](11-styleguide.html)
 * [12. Paragraphs](./12-index.html)
+* [13. styleguide paragraphs](13-styleguide.html)
 
 ---
 
