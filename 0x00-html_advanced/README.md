@@ -47,6 +47,7 @@ Create the head and body sections
        * [Contact](./contact.html)
 * [20. Add links](./20-index.html)
 * [21. Add social media links](./21-index.html)
+* [22. "Button" links](./22-index.html)
 
 ---
 
