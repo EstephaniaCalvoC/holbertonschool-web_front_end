@@ -25,12 +25,10 @@ Create the head and body sections
        * Inside the html tag, create the head and body tags (empty) in this order
 
 * [2. The head - meta charset, viewport, title, description, favicons](./2-index.html)
-
 * [3. Simple header, main, footer](./3-index.html)
-
 * [4. Aside](./article.html)
-
 * [5. Section](./5-index.html)
+* [6. Work, News, Testimonial articles](./6-index.html)
 
 ---
 
