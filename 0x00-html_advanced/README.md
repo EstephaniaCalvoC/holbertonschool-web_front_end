@@ -49,6 +49,7 @@ Create the head and body sections
 * [21. Add social media links](./21-index.html)
 * [22. "Button" links](./22-index.html)
 * [23. Services, Works, Latest news links](./23-index.html)
+* [24. List the links](./24-index.html)
 
 ---
 
