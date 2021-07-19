@@ -51,6 +51,7 @@ Create the head and body sections
 * [23. Services, Works, Latest news links](./23-index.html)
 * [24. List the links](./24-index.html)
 * [25. Secondary navigation menu](./25-index.html)
+* [26. Examples of lists for the styleguide](./26-index.html)
 
 ---
 
