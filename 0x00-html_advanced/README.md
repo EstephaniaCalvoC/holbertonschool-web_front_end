@@ -37,6 +37,7 @@ Create the head and body sections
 * [12. Paragraphs](./12-index.html)
 * [13. styleguide paragraphs](13-styleguide.html)
 * [14. Span](14-index.html)
+* [15. Div](15-index.html)
 
 ---
 
