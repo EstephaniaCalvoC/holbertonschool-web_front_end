@@ -24,6 +24,8 @@ Create the head and body sections
 
        * Inside the html tag, create the head and body tags (empty) in this order
 
+* [The head - meta charset, viewport, title, description, favicons](./2-index.html)
+
 ---
 
 ## Author
