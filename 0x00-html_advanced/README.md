@@ -30,6 +30,7 @@ Create the head and body sections
 * [5. Section](./5-index.html)
 * [6. Work, News, Testimonial articles](./6-index.html)
 * [7. Navigation](./7-index.html)
+* [8. Level 1 headings](./8-index.html)
 
 ---
 
