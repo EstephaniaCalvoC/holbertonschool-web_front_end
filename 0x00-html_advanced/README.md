@@ -28,6 +28,8 @@ Create the head and body sections
 
 * [3. Simple header, main, footer](./3-index.html)
 
+* [4. Aside](./article.html)
+
 ---
 
 ## Author
