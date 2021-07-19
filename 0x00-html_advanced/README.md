@@ -33,6 +33,7 @@ Create the head and body sections
 * [8. Level 1 headings](./8-index.html)
 * [9. Level 2 headings](./9-index.html)
 * [10. Level 3 headings](./10-index.html)
+* [11. styleguide](11-styleguide.html)
 
 ---
 
