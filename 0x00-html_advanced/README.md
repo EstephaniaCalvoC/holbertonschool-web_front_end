@@ -45,6 +45,7 @@ Create the head and body sections
        * [About](./about.html)
        * [Latest news](./latest_news.html)
        * [Contact](./contact.html)
+* [20. Add links](./20-index.html)
 
 ---
 
