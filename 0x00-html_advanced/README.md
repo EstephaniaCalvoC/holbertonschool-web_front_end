@@ -53,6 +53,7 @@ Create the head and body sections
 * [25. Secondary navigation menu](./25-index.html)
 * [26. Examples of lists for the styleguide](./26-styleguide.html)
 * [27. Separate content](./27-index.html)
+* [28. Horizontal rule example](./28-styleguide.html)
 
 ---
 
