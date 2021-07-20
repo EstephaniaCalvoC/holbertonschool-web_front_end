@@ -57,6 +57,7 @@ Create the head and body sections
 * [29. Client quotes](./29-index.html)
 * [30. Examples of quotes](./30-styleguide.html)
 * [31. Address and latest news authors](./31-index.html)
+* [32. Typography section - using the correct tags](./32-styleguide.html)
 
 ---
 
