@@ -54,6 +54,7 @@ Create the head and body sections
 * [26. Examples of lists for the styleguide](./26-styleguide.html)
 * [27. Separate content](./27-index.html)
 * [28. Horizontal rule example](./28-styleguide.html)
+* [29. Client quotes](./29-index.html)
 
 ---
 
