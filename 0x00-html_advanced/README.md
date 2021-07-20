@@ -56,6 +56,7 @@ Create the head and body sections
 * [28. Horizontal rule example](./28-styleguide.html)
 * [29. Client quotes](./29-index.html)
 * [30. Examples of quotes](./30-styleguide.html)
+* [31. Address and latest news authors](./31-index.html)
 
 ---
 
