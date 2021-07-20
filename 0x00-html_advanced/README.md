@@ -64,6 +64,7 @@ Create the head and body sections
 * [36. Add images to your sections](./36-index.html)
 * [37. Social icons](./index.html)
 * [38. Add a video player in the styleguide](./38-styleguide.html)
+* [39. Add an audio player in the styleguide](./39-styleguide.html)
 
 ---
 
